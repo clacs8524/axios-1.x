@@ -64,14 +64,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/axios/axios.git"
+    "url": "https://github.com/clacs8524/axios-1.x"
   },
   "keywords": [
     "xhr",
     "http",
     "ajax",
     "promise",
-    "node"
+    "node",
+    "axios.cjs"
   ],
   "author": "Matt Zabriskie",
   "license": "MIT",
